@@ -14,9 +14,9 @@ This is a simple back end application that assists businesses with tracking and 
 Requires terminal and node packages.
 * npm init -y
 * npm install
-* npm i inquirer
+* Express API
 * mysql12 (npm install --save mysql2 or npm i mysql2)
-* console table (npm install console.table --save)
+* dotenv
 
 
 ## Links
