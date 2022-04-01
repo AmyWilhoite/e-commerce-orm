@@ -21,7 +21,7 @@ Requires terminal and node packages.
 Insomnia preview of GET routes to return all categories, all products, and all tags being tested in Insomnia:
 ![In Insomnia, the user tests GET categories.](./Assets/get_categories.png)
 ![In Insomnia, the user tests GET products.](./Assets/get_products.png)
-![In Insomnia, the user tests GET tags .](./Assets/get_tags.png) 
+![In Insomnia, the user tests GET tags.] (./Assets/get_tags.png) 
 
 Insomnia preview of GET routes to one category, product and tag:
 ![In Insomnia, the user tests GET categories from 1.](./Assets/get_categories1.png)
